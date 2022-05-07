@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'IRANSans';
+  font-style: normal;
+  src:  url(assets/fonts/IRANSans.woff2) format('woff2');
+}
+.default-btn-b-color{
+  border-radius: 5px;
+  background-color: #3e8bff;
+}
